@@ -1,0 +1,2260 @@
+{
+  "A": {
+    "abubakar_aisha": {
+      "name": "Aisha",
+      "gender": "f",
+      "gen": 1
+    },
+    "abubakar_father_of_hamidah": {
+      "name": "Father of Hamidah",
+      "gender": "m",
+      "gen": 1,
+      "unknown": true
+    },
+    "abubakar_halim": {
+      "name": "Halim",
+      "gender": "m",
+      "gen": 1
+    },
+    "abubakar_jakinah": {
+      "name": "Jakinah",
+      "gender": "f",
+      "gen": 1,
+      "traits": "Passed away."
+    },
+    "abubakar_kamaludeen": {
+      "name": "Kamaludeen",
+      "gender": "m",
+      "gen": 1,
+      "traits": "Ran Kasab Kadai alongside his brother Osman."
+    },
+    "abubakar_menatchia": {
+      "name": "Menatchia",
+      "gender": "f",
+      "gen": 1
+    },
+    "abubakar_mother_of_hamidah": {
+      "name": "Mother of Hamidah",
+      "gender": "f",
+      "gen": 1,
+      "unknown": true
+    },
+    "abubakar_osman": {
+      "name": "Osman",
+      "gender": "m",
+      "gen": 1,
+      "traits": "Took over the Kasab Kadai butchery in Little India."
+    },
+    "abubakar_sarbudeen": {
+      "name": "Sarbudeen",
+      "gender": "m",
+      "gen": 1,
+      "traits": "Halimah Ummal's 1st husband."
+    },
+    "abubakar_abu_bakar": {
+      "name": "Abu Bakar",
+      "gender": "m",
+      "gen": 2,
+      "title": "Patriarch",
+      "traits": "Born in Madurai; moved to Neravy in the 1930s. Entrepreneur and philanthropist — founded Kasab Kadai, Singapore's first halal butchery to import Australian meat and introduce the meat mincer, and built the Neravy clock tower in 1958."
+    },
+    "abubakar_abu_salee": {
+      "name": "Abu Salee",
+      "gender": "m",
+      "gen": 2,
+      "traits": "Deceased."
+    },
+    "abubakar_aisha_d_of_menatchia": {
+      "name": "Aisha (d. of Menatchia)",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_ali_saburi": {
+      "name": "Ali Saburi",
+      "gender": "m",
+      "gen": 2
+    },
+    "abubakar_dawood": {
+      "name": "Dawood",
+      "gender": "m",
+      "gen": 2
+    },
+    "abubakar_hamidah": {
+      "name": "Hamidah",
+      "gender": "f",
+      "gen": 2,
+      "traits": "Abu Bakar's wife. Raised six children in Neravy."
+    },
+    "abubakar_jahir_hussain": {
+      "name": "Jahir Hussain",
+      "gender": "m",
+      "gen": 2
+    },
+    "abubakar_mannan": {
+      "name": "Mannan",
+      "gender": "m",
+      "gen": 2
+    },
+    "abubakar_mumtaj_begam": {
+      "name": "Mumtaj Begam",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_nasar": {
+      "name": "Nasar",
+      "gender": "m",
+      "gen": 2
+    },
+    "abubakar_nisha": {
+      "name": "Nisha",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_nurjahan": {
+      "name": "Nurjahan",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_partner_of_abu_bakar": {
+      "name": "Partner of Abu Bakar",
+      "gender": "f",
+      "gen": 2,
+      "unknown": true
+    },
+    "abubakar_siti": {
+      "name": "Siti",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_zubaidah": {
+      "name": "Zubaidah",
+      "gender": "f",
+      "gen": 2
+    },
+    "abubakar_abdul_kader": {
+      "name": "Abdul Kader",
+      "gender": "m",
+      "gen": 3,
+      "title": "“Kadai Appa”",
+      "traits": "Halimah Ummal's 2nd husband, from the Kuddus family. Ran a provision shop and hawker stalls; passed away."
+    },
+    "abubakar_abdul_salam": {
+      "name": "Abdul Salam",
+      "gender": "m",
+      "gen": 3
+    },
+    "abubakar_ashraf": {
+      "name": "Ashraf",
+      "gender": "m",
+      "gen": 3
+    },
+    "abubakar_asina_begam": {
+      "name": "Asina Begam",
+      "gender": "f",
+      "gen": 3,
+      "traits": "A very clean and organised individual."
+    },
+    "abubakar_farah": {
+      "name": "Farah",
+      "gender": "f",
+      "gen": 3
+    },
+    "abubakar_partner_of_farah": {
+      "name": "Partner of Farah",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "abubakar_gani_maricar": {
+      "name": "Gani Maricar",
+      "gender": "m",
+      "gen": 3,
+      "traits": "From the Maricar family — one of several marriages linking the two clans."
+    },
+    "abubakar_halimah_ummal": {
+      "name": "Halimah Ummal",
+      "gender": "f",
+      "gen": 3,
+      "traits": "Shared her father's intelligence and determined spirit."
+    },
+    "abubakar_harsharth": {
+      "name": "Harsharth",
+      "gender": "m",
+      "gen": 3
+    },
+    "abubakar_irfan": {
+      "name": "Irfan",
+      "gender": "m",
+      "gen": 3
+    },
+    "abubakar_partner_of_irfan": {
+      "name": "Partner of Irfan",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "abubakar_jainalabuden": {
+      "name": "Jainalabuden",
+      "gender": "m",
+      "gen": 3
+    },
+    "abubakar_maimoon": {
+      "name": "Maimoon",
+      "gender": "f",
+      "gen": 3,
+      "title": "aka Muthaji",
+      "traits": "Remarried twice; her descendants run through two very different branches."
+    },
+    "abubakar_partner_of_jainalabuden": {
+      "name": "Partner of Jainalabuden",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "abubakar_abdul_razak": {
+      "name": "Abdul Razak",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_aminah_banu": {
+      "name": "Aminah Banu",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_dawood_sultan": {
+      "name": "Dawood Sultan",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_faridah": {
+      "name": "Faridah",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_harris": {
+      "name": "Harris",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_hussain": {
+      "name": "Hussain",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_iqbal": {
+      "name": "Iqbal",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_jainabu_natchia": {
+      "name": "Jainabu Natchia",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_jegaber_natchial": {
+      "name": "Jegaber Natchial",
+      "gender": "f",
+      "gen": 4,
+      "traits": "From the Maricar & Abu Bakar family — married Khalibullah, from the Abu Bakar & Kuddus family."
+    },
+    "abubakar_khalibullah": {
+      "name": "Khalibullah",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_khalid": {
+      "name": "Khalid",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_mamudha": {
+      "name": "Mamudha",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_nur_nisha": {
+      "name": "Nur Nisha",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_rafiq": {
+      "name": "Rafiq",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_rahima_begam": {
+      "name": "Rahima Begam",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_salim": {
+      "name": "Salim",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_samsunihar_aachama": {
+      "name": "Samsunihar Aachama",
+      "gender": "f",
+      "gen": 4,
+      "traits": "Knitter and self-taught makeup artist — dressed the brides of Neravy for decades, including her own step-sister's wedding."
+    },
+    "abubakar_syed_janira_banu": {
+      "name": "Syed Janira Banu",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_taj_mohammad": {
+      "name": "Taj Mohammad",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_ummu_salimah": {
+      "name": "Ummu Salimah",
+      "gender": "f",
+      "gen": 4
+    },
+    "abubakar_yacob": {
+      "name": "Yacob",
+      "gender": "m",
+      "gen": 4
+    },
+    "abubakar_affrin_nisha": {
+      "name": "Affrin Nisha",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_ansari": {
+      "name": "Ansari",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_ayisha_raihana": {
+      "name": "Ayisha Raihana",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_badhusha_raja": {
+      "name": "Badhusha Raja",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_child_of_yacob": {
+      "name": "Child of Yacob",
+      "gender": "u",
+      "gen": 5,
+      "unknown": true
+    },
+    "abubakar_diwan": {
+      "name": "Diwan",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_faherah_begam": {
+      "name": "Faherah Begam",
+      "gender": "f",
+      "gen": 5,
+      "isUser": true,
+      "traits": "Compiled this family archive — the reason this dashboard exists."
+    },
+    "abubakar_faizal": {
+      "name": "Faizal",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_fajurullah": {
+      "name": "Fajurullah",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_farhana_begam": {
+      "name": "Farhana Begam",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_farisha_begam": {
+      "name": "Farisha Begam",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_farveen_banu": {
+      "name": "Farveen Banu",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_fauziah": {
+      "name": "Fauziah",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_haziqah": {
+      "name": "Haziqah",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_mohamad_nabeel": {
+      "name": "Mohamad Nabeel",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_mohamad_nadeem": {
+      "name": "Mohamad Nadeem",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_mohammad_farshith": {
+      "name": "Mohammad Farshith",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_mohammad_ridzwan": {
+      "name": "Mohammad Ridzwan",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_muhammad_farhan": {
+      "name": "Muhammad Farhan",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_nasir_shah": {
+      "name": "Nasir Shah",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_nisar": {
+      "name": "Nisar",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_riffeth_begam": {
+      "name": "Riffeth Begam",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_riyaz": {
+      "name": "Riyaz",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_shireen_halimah": {
+      "name": "Shireen Halimah",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_sibling_of_child_of_yacob": {
+      "name": "Sibling of Child of Yacob",
+      "gender": "u",
+      "gen": 5,
+      "unknown": true
+    },
+    "abubakar_sibling_of_sibling_of_child_of_yacob": {
+      "name": "Sibling of Sibling of Child of Yacob",
+      "gender": "u",
+      "gen": 5,
+      "unknown": true
+    },
+    "abubakar_thahmilla": {
+      "name": "Thahmilla",
+      "gender": "f",
+      "gen": 5
+    },
+    "abubakar_thameem": {
+      "name": "Thameem",
+      "gender": "m",
+      "gen": 5,
+      "traits": "Faherah's fiancé."
+    },
+    "abubakar_wassim_shah": {
+      "name": "Wassim Shah",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_yassar": {
+      "name": "Yassar",
+      "gender": "m",
+      "gen": 5
+    },
+    "abubakar_aadhil": {
+      "name": "Aadhil",
+      "gender": "m",
+      "gen": 6
+    },
+    "abubakar_child_of_mohammad": {
+      "name": "Child of Mohammad",
+      "gender": "u",
+      "gen": 6,
+      "unknown": true
+    },
+    "abubakar_ibrahim_fashith": {
+      "name": "Ibrahim Fashith",
+      "gender": "m",
+      "gen": 6
+    },
+    "abubakar_khaira": {
+      "name": "Khaira",
+      "gender": "f",
+      "gen": 6
+    },
+    "abubakar_muhammad": {
+      "name": "Muhammad Fawaz Khwaja",
+      "gender": "m",
+      "gen": 6
+    },
+    "abubakar_muhammad_fauz_khwaja": {
+      "name": "Muhammad Fauz Khwaja",
+      "gender": "m",
+      "gen": 6
+    },
+    "abubakar_nafeelah": {
+      "name": "Nafeelah",
+      "gender": "f",
+      "gen": 6
+    },
+    "abubakar_shireen": {
+      "name": "Shireen",
+      "gender": "f",
+      "gen": 6
+    },
+    "abubakar_zayan_emir_shah": {
+      "name": "Zayan Emir Shah",
+      "gender": "m",
+      "gen": 6
+    }
+  },
+  "Aunions": [
+    {
+      "p": [
+        "abubakar_aisha",
+        "abubakar_osman"
+      ],
+      "c": [
+        "abubakar_zubaidah",
+        "abubakar_nisha",
+        "abubakar_ali_saburi",
+        "abubakar_mumtaj_begam"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_menatchia",
+        "abubakar_kamaludeen"
+      ],
+      "c": [
+        "abubakar_jahir_hussain",
+        "abubakar_dawood",
+        "abubakar_aisha_d_of_menatchia",
+        "abubakar_nurjahan"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_jahir_hussain",
+        "abubakar_siti"
+      ],
+      "c": [
+        "abubakar_irfan",
+        "abubakar_farah"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_irfan",
+        "abubakar_partner_of_irfan"
+      ],
+      "c": []
+    },
+    {
+      "p": [
+        "abubakar_farah",
+        "abubakar_partner_of_farah"
+      ],
+      "c": []
+    },
+    {
+      "p": [
+        "abubakar_aisha_d_of_menatchia",
+        "abubakar_mannan"
+      ],
+      "c": [
+        "abubakar_harsharth",
+        "abubakar_ashraf"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_jakinah",
+        "abubakar_halim"
+      ],
+      "c": [
+        "abubakar_nasar",
+        "abubakar_abu_bakar"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_jakinah",
+        "abubakar_sarbudeen"
+      ],
+      "c": [
+        "abubakar_abu_salee"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_mother_of_hamidah",
+        "abubakar_father_of_hamidah"
+      ],
+      "c": [
+        "abubakar_hamidah"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_hamidah",
+        "abubakar_abu_bakar"
+      ],
+      "c": [
+        "abubakar_halimah_ummal",
+        "abubakar_asina_begam"
+      ],
+      "note": "Hamidah and Abu Bakar are the founding couple of the Abu Bakar line."
+    },
+    {
+      "p": [
+        "abubakar_halimah_ummal",
+        "abubakar_abdul_kader"
+      ],
+      "c": [
+        "abubakar_jegaber_natchial",
+        "abubakar_abdul_razak",
+        "abubakar_rahima_begam",
+        "abubakar_jainabu_natchia"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_jegaber_natchial",
+        "abubakar_khalibullah"
+      ],
+      "c": [
+        "abubakar_farisha_begam",
+        "abubakar_farhana_begam",
+        "abubakar_faherah_begam"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_farisha_begam",
+        "abubakar_muhammad_farhan"
+      ],
+      "c": [
+        "abubakar_muhammad",
+        "abubakar_muhammad_fauz_khwaja"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_farhana_begam",
+        "abubakar_wassim_shah"
+      ],
+      "c": [
+        "abubakar_zayan_emir_shah"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_faherah_begam",
+        "abubakar_thameem"
+      ],
+      "c": []
+    },
+    {
+      "p": [
+        "abubakar_abdul_razak",
+        "abubakar_ummu_salimah"
+      ],
+      "c": [
+        "abubakar_riffeth_begam",
+        "abubakar_ayisha_raihana",
+        "abubakar_shireen_halimah"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_riffeth_begam",
+        "abubakar_nasir_shah"
+      ],
+      "c": [
+        "abubakar_khaira"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_rahima_begam",
+        "abubakar_hussain"
+      ],
+      "c": [
+        "abubakar_mohammad_ridzwan",
+        "abubakar_affrin_nisha"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_mohammad_ridzwan",
+        "abubakar_thahmilla"
+      ],
+      "c": [
+        "abubakar_child_of_mohammad"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_jainabu_natchia",
+        "abubakar_harris"
+      ],
+      "c": [
+        "abubakar_haziqah"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_asina_begam",
+        "abubakar_gani_maricar"
+      ],
+      "c": [
+        "abubakar_syed_janira_banu",
+        "abubakar_aminah_banu"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_syed_janira_banu",
+        "abubakar_taj_mohammad"
+      ],
+      "c": [
+        "abubakar_mohammad_farshith"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_aminah_banu",
+        "abubakar_khalid"
+      ],
+      "c": [
+        "abubakar_mohamad_nadeem",
+        "abubakar_mohamad_nabeel"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_abu_bakar",
+        "abubakar_partner_of_abu_bakar"
+      ],
+      "c": [
+        "abubakar_jainalabuden",
+        "abubakar_maimoon"
+      ],
+      "note": "Abu Bakar's second recorded marriage."
+    },
+    {
+      "p": [
+        "abubakar_jainalabuden",
+        "abubakar_partner_of_jainalabuden"
+      ],
+      "c": [
+        "abubakar_samsunihar_aachama"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_samsunihar_aachama",
+        "abubakar_rafiq"
+      ],
+      "c": [
+        "abubakar_farveen_banu",
+        "abubakar_badhusha_raja"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_farveen_banu",
+        "abubakar_ansari"
+      ],
+      "c": [
+        "abubakar_ibrahim_fashith",
+        "abubakar_nafeelah",
+        "abubakar_aadhil"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_ibrahim_fashith",
+        "abubakar_shireen"
+      ],
+      "c": []
+    },
+    {
+      "p": [
+        "abubakar_maimoon",
+        "abubakar_abdul_salam"
+      ],
+      "c": [
+        "abubakar_faridah",
+        "abubakar_yacob",
+        "abubakar_mamudha"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_faridah",
+        "abubakar_iqbal"
+      ],
+      "c": [
+        "abubakar_fajurullah",
+        "abubakar_fauziah",
+        "abubakar_riyaz"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_yacob",
+        "abubakar_nur_nisha"
+      ],
+      "c": [
+        "abubakar_child_of_yacob",
+        "abubakar_sibling_of_child_of_yacob",
+        "abubakar_sibling_of_sibling_of_child_of_yacob"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_mamudha",
+        "abubakar_dawood_sultan"
+      ],
+      "c": [
+        "abubakar_nisar",
+        "abubakar_faizal",
+        "abubakar_yassar",
+        "abubakar_diwan"
+      ]
+    },
+    {
+      "p": [
+        "abubakar_mamudha",
+        "abubakar_salim"
+      ],
+      "c": []
+    }
+  ],
+  "K": {
+    "kuddus_fatimah": {
+      "name": "Fatimah",
+      "gender": "f",
+      "gen": 1
+    },
+    "kuddus_muhammad_kuddus": {
+      "name": "Muhammad Kuddus",
+      "gender": "m",
+      "gen": 1,
+      "traits": "A farmer in Sangamangalam, India, with one wife and four children."
+    },
+    "kuddus_abdul_karim": {
+      "name": "Abdul Karim",
+      "gender": "m",
+      "gen": 2
+    },
+    "kuddus_balqis": {
+      "name": "Balqis",
+      "gender": "f",
+      "gen": 2,
+      "traits": "“To add on…” — details still being gathered."
+    },
+    "kuddus_bavamaideen_thadi_vappa": {
+      "name": "Bavamaideen Thadi Vappa",
+      "gender": "m",
+      "gen": 2,
+      "title": "“Thadi Vappa”",
+      "traits": "Known for his long white beard — thadi means beard in Tamil."
+    },
+    "kuddus_ghazali": {
+      "name": "Ghazali",
+      "gender": "m",
+      "gen": 2
+    },
+    "kuddus_partner_of_abdul_karim": {
+      "name": "Partner of Abdul Karim",
+      "gender": "f",
+      "gen": 2,
+      "unknown": true
+    },
+    "kuddus_zaithun": {
+      "name": "Zaithun",
+      "gender": "f",
+      "gen": 2
+    },
+    "kuddus_abu": {
+      "name": "Abu",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_anwar": {
+      "name": "Anwar",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_basheera_sellama_machi": {
+      "name": "Basheera Sellama Machi",
+      "gender": "f",
+      "gen": 3
+    },
+    "kuddus_fairoz": {
+      "name": "Fairoz",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_father_of_sujana": {
+      "name": "Father of Sujana",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "kuddus_haja": {
+      "name": "Haja",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_najumudeen": {
+      "name": "Najumudeen",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_partner_of_anwar": {
+      "name": "Partner of Anwar",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "kuddus_partner_of_fairoz": {
+      "name": "Partner of Fairoz",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "kuddus_siraj": {
+      "name": "Siraj",
+      "gender": "m",
+      "gen": 3
+    },
+    "kuddus_son_of_balqis": {
+      "name": "Son of Balqis",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "kuddus_son_of_balqis_2": {
+      "name": "Son of Balqis (2)",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "kuddus_zeenath_aachi": {
+      "name": "Zeenath Aachi",
+      "gender": "f",
+      "gen": 3
+    },
+    "kuddus_aisha_farhana": {
+      "name": "Aisha Farhana",
+      "gender": "f",
+      "gen": 4
+    },
+    "kuddus_brother_of_sujana": {
+      "name": "Brother of Sujana",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "kuddus_daughter_of_anwar": {
+      "name": "Daughter of Anwar",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "kuddus_daughter_of_fairoz": {
+      "name": "Daughter of Fairoz",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "kuddus_nur_faaliha": {
+      "name": "Nur Faaliha",
+      "gender": "f",
+      "gen": 4
+    },
+    "kuddus_salmaan": {
+      "name": "Salmaan",
+      "gender": "m",
+      "gen": 4
+    },
+    "kuddus_sheik": {
+      "name": "Sheik",
+      "gender": "m",
+      "gen": 4
+    },
+    "kuddus_sister_of_daughter_of_fairoz": {
+      "name": "Sister of Daughter of Fairoz",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "kuddus_son_of_basheera": {
+      "name": "Son of Basheera",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "kuddus_sujana": {
+      "name": "Sujana",
+      "gender": "f",
+      "gen": 4
+    },
+    "kuddus_thasneem": {
+      "name": "Thasneem",
+      "gender": "f",
+      "gen": 4
+    },
+    "kuddus_yara": {
+      "name": "Yara",
+      "gender": "f",
+      "gen": 5
+    },
+    "kuddus_zeeya": {
+      "name": "Ziya",
+      "gender": "f",
+      "gen": 5
+    },
+    "kuddus_waqas": {
+      "name": "Waqas",
+      "gender": "m",
+      "gen": 5
+    },
+    "kuddus_danial": {
+      "name": "Danial",
+      "gender": "m",
+      "gen": 5
+    }
+  },
+  "Kunions": [
+    {
+      "p": [
+        "kuddus_fatimah",
+        "kuddus_muhammad_kuddus"
+      ],
+      "c": [
+        "kuddus_bavamaideen_thadi_vappa",
+        "kuddus_abdul_karim",
+        "kuddus_balqis"
+      ],
+      "note": "Fatimah and Muhammad Kuddus are the founding couple of the Kuddus line."
+    },
+    {
+      "p": [
+        "kuddus_bavamaideen_thadi_vappa",
+        "kuddus_zaithun"
+      ],
+      "c": [
+        "kuddus_zeenath_aachi",
+        "kuddus_anwar"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_zeenath_aachi",
+        "kuddus_najumudeen"
+      ],
+      "c": [
+        "kuddus_aisha_farhana",
+        "kuddus_salmaan",
+        "kuddus_nur_faaliha"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_aisha_farhana",
+        "kuddus_sheik"
+      ],
+      "c": [
+        "kuddus_zeeya",
+        "kuddus_yara",
+        "kuddus_waqas"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_salmaan",
+        "kuddus_thasneem"
+      ],
+      "c": [
+        "kuddus_danial"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_anwar",
+        "kuddus_partner_of_anwar"
+      ],
+      "c": [
+        "kuddus_daughter_of_anwar"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_abdul_karim",
+        "kuddus_partner_of_abdul_karim"
+      ],
+      "c": [
+        "kuddus_fairoz",
+        "kuddus_siraj"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_fairoz",
+        "kuddus_partner_of_fairoz"
+      ],
+      "c": [
+        "kuddus_daughter_of_fairoz",
+        "kuddus_sister_of_daughter_of_fairoz"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_balqis",
+        "kuddus_ghazali"
+      ],
+      "c": [
+        "kuddus_haja",
+        "kuddus_abu",
+        "kuddus_son_of_balqis",
+        "kuddus_son_of_balqis_2",
+        "kuddus_basheera_sellama_machi"
+      ]
+    },
+    {
+      "p": [
+        "kuddus_basheera_sellama_machi",
+        "kuddus_father_of_sujana"
+      ],
+      "c": [
+        "kuddus_sujana",
+        "kuddus_brother_of_sujana",
+        "kuddus_son_of_basheera"
+      ]
+    }
+  ],
+  "M": {
+    "maricar_alimah": {
+      "name": "Alimah",
+      "gender": "f",
+      "gen": 1
+    },
+    "maricar_vacha": {
+      "name": "Vacha",
+      "gender": "m",
+      "gen": 1
+    },
+    "maricar_amina": {
+      "name": "Amina",
+      "gender": "f",
+      "gen": 2,
+      "traits": "Passed away shortly after her second child was born. Her mother Alimah's brother was a Governor in Japan in 1935."
+    },
+    "maricar_partner_of_sultan_maricar": {
+      "name": "Partner of Sultan Maricar",
+      "gender": "f",
+      "gen": 2,
+      "unknown": true
+    },
+    "maricar_sultan_maricar": {
+      "name": "Sultan Maricar",
+      "gender": "m",
+      "gen": 2,
+      "traits": "Half-Malay businessman; ran a printing shop on Joo Chiat Road, Singapore, then a floral business in Karikal, India."
+    },
+    "maricar_abdulrahim": {
+      "name": "AbdulRahim",
+      "gender": "m",
+      "gen": 3
+    },
+    "maricar_aisha_natchia_ummanama": {
+      "name": "Aisha Natchia (Ummanama)",
+      "gender": "f",
+      "gen": 3,
+      "title": "“Ummanama”",
+      "traits": "Had several children together with wide-reaching descendants across the Maricar line."
+    },
+    "maricar_fauziah": {
+      "name": "Fauziah",
+      "gender": "f",
+      "gen": 3
+    },
+    "maricar_haijah": {
+      "name": "Haijah",
+      "gender": "f",
+      "gen": 3
+    },
+    "maricar_hamid": {
+      "name": "Hamid",
+      "gender": "m",
+      "gen": 3
+    },
+    "maricar_hamid_maami": {
+      "name": "Hamid Maami",
+      "gender": "f",
+      "gen": 3,
+      "traits": "Married Sheikh Dawood."
+    },
+    "maricar_latha_amma": {
+      "name": "Latha Amma",
+      "gender": "f",
+      "gen": 3
+    },
+    "maricar_maideen": {
+      "name": "Maideen",
+      "gender": "m",
+      "gen": 3,
+      "traits": "Amina's brother — one of several marriages linking the two branches of the family."
+    },
+    "maricar_mother_of_daughter_of_sarebu": {
+      "name": "Mother of Daughter of Sarebu",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "maricar_partner_of_abdulrahim": {
+      "name": "Partner of AbdulRahim",
+      "gender": "f",
+      "gen": 3,
+      "unknown": true
+    },
+    "maricar_partner_of_aisha_natchia": {
+      "name": "Partner of Aisha Natchia",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "maricar_partner_of_haijah": {
+      "name": "Partner of Haijah",
+      "gender": "m",
+      "gen": 3,
+      "unknown": true
+    },
+    "maricar_sarebu": {
+      "name": "Sarebu",
+      "gender": "m",
+      "gen": 3
+    },
+    "maricar_sheikh_dawood": {
+      "name": "Sheikh Dawood",
+      "gender": "m",
+      "gen": 3
+    },
+    "maricar_aachikani_maami": {
+      "name": "Aachikani Maami",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_arief": {
+      "name": "Arief",
+      "gender": "m",
+      "gen": 4
+    },
+    "maricar_banu": {
+      "name": "Banu",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_child_of_abdulrahim": {
+      "name": "Child of AbdulRahim",
+      "gender": "u",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_child_of_abdulrahim_2": {
+      "name": "Child of AbdulRahim (2)",
+      "gender": "u",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_daughter_of_sarebu": {
+      "name": "Daughter of Sarebu",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_fareedha": {
+      "name": "Fareedha",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_father_of_anis": {
+      "name": "Father of Anis",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_father_of_aslam": {
+      "name": "Father of Aslam",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_father_of_daughter_of_thangam": {
+      "name": "Father of Daughter of Thangam",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_father_of_farvin": {
+      "name": "Father of Farvin",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_father_of_son_of_jareena": {
+      "name": "Father of Son of Jareena",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_hilal": {
+      "name": "Hilal",
+      "gender": "m",
+      "gen": 4
+    },
+    "maricar_ibrahim": {
+      "name": "Ibrahim",
+      "gender": "m",
+      "gen": 4
+    },
+    "maricar_jareena_muthu": {
+      "name": "Jareena Muthu",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_mother_of_shamima": {
+      "name": "Mother of Shamima",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_muthu_vappa": {
+      "name": "Muthu Vappa",
+      "gender": "m",
+      "gen": 4,
+      "traits": "His large family of seven children."
+    },
+    "maricar_partner_of_muthu": {
+      "name": "Partner of Muthu",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_ponnachi": {
+      "name": "Ponnachi",
+      "gender": "f",
+      "gen": 4,
+      "traits": "Linked into this family tree twice over, through two different marriages."
+    },
+    "maricar_saramma": {
+      "name": "Saramma",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_sellakani_mami": {
+      "name": "Sellakani Mami",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_setha_vappa": {
+      "name": "Setha Vappa",
+      "gender": "m",
+      "gen": 4,
+      "traits": "Married his cousin Saramma."
+    },
+    "maricar_settu_vaapa": {
+      "name": "Settu Vaapa",
+      "gender": "m",
+      "gen": 4
+    },
+    "maricar_sister_of_daughter_of_sarebu": {
+      "name": "Sister of Daughter of Sarebu",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_sister_of_hilal": {
+      "name": "Sister of Hilal",
+      "gender": "f",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_son_of_haijah": {
+      "name": "Son of Haijah",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_son_of_haijah_2": {
+      "name": "Son of Haijah (2)",
+      "gender": "m",
+      "gen": 4,
+      "unknown": true
+    },
+    "maricar_thanga": {
+      "name": "Thanga",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_thangam": {
+      "name": "Thangam",
+      "gender": "f",
+      "gen": 4
+    },
+    "maricar_udhumalai_vaapa": {
+      "name": "Udhumalai Vaapa",
+      "gender": "m",
+      "gen": 4,
+      "traits": "Aisha Natchia's grandson-in-law — married Fareedha, from the 1st-wife line."
+    },
+    "maricar_anis": {
+      "name": "Anis",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_aslam": {
+      "name": "Aslam",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_asmamama": {
+      "name": "Asmamama",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_banu_2": {
+      "name": "Banu (2)",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_brother_of_son_of_jareena": {
+      "name": "Brother of Son of Jareena",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_muthu": {
+      "name": "Daughter of Muthu",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_muthu_2": {
+      "name": "Daughter of Muthu (2)",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_muthu_3": {
+      "name": "Daughter of Muthu (3)",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_muthu_4": {
+      "name": "Daughter of Muthu (4)",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_partner_of_muthu": {
+      "name": "Daughter of Partner of Muthu",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_partner_of_muthu_2": {
+      "name": "Daughter of Partner of Muthu (2)",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_daughter_of_thangam": {
+      "name": "Daughter of Thangam",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_fahima": {
+      "name": "Fahima",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_farhana": {
+      "name": "Farhana",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_farvin": {
+      "name": "Farvin",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_father_of_jafir": {
+      "name": "Father of Jafir",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_father_of_muhsinah": {
+      "name": "Father of Muhsinah",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_jaani": {
+      "name": "Jaani",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_jinnah": {
+      "name": "Jinnah",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_kamilah": {
+      "name": "Kamilah",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_late_partner_of_asmamama": {
+      "name": "Late partner of Asmamama",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_mother_of_son_of_navaz": {
+      "name": "Mother of Son of Navaz",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_naasik": {
+      "name": "Naasik",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_navaz": {
+      "name": "Navaz",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_nawaz": {
+      "name": "Nawaz",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_nizam": {
+      "name": "Nizam",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_nizarah": {
+      "name": "Nizarah",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_omar": {
+      "name": "Omar",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_partner_of_naasik": {
+      "name": "Partner of Naasik",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_partner_of_nizam": {
+      "name": "Partner of Nizam",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_partner_of_sellapapa": {
+      "name": "Partner of SellaPapa",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_partner_of_setha": {
+      "name": "Partner of Setha",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_partner_of_siraj": {
+      "name": "Partner of Siraj",
+      "gender": "f",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_rafeeq": {
+      "name": "Rafeeq",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_raja": {
+      "name": "Raja",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_ramli": {
+      "name": "Ramli",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_rosy": {
+      "name": "Rosy",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_said_mubarak": {
+      "name": "Said Mubarak",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_sellapapa": {
+      "name": "SellaPapa",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_setha_munnai": {
+      "name": "Setha Munnai",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_shakila": {
+      "name": "Shakila",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_shamima": {
+      "name": "Shamima",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_siraj_2": {
+      "name": "Siraj (2)",
+      "gender": "m",
+      "gen": 5
+    },
+    "maricar_son_of_jareena": {
+      "name": "Son of Jareena",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_son_of_muthu": {
+      "name": "Son of Muthu",
+      "gender": "m",
+      "gen": 5,
+      "unknown": true
+    },
+    "maricar_zubaidah_2": {
+      "name": "Zubaidah (2)",
+      "gender": "f",
+      "gen": 5
+    },
+    "maricar_brother_of_daughter_of_sellapapa": {
+      "name": "Brother of Daughter of SellaPapa",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_brother_of_kuluthu": {
+      "name": "Brother of Kuluthu",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_brother_of_sister_of_salmaan": {
+      "name": "Brother of Sister of Salmaan",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_daughter_of_banu": {
+      "name": "Daughter of Banu",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_daughter_of_nizam": {
+      "name": "Daughter of Nizam",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_daughter_of_sellapapa": {
+      "name": "Daughter of SellaPapa",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_daughter_of_siraj": {
+      "name": "Daughter of Siraj",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_jafir": {
+      "name": "Jafir",
+      "gender": "m",
+      "gen": 6
+    },
+    "maricar_jinnah_2": {
+      "name": "Jinnah (2)",
+      "gender": "m",
+      "gen": 6
+    },
+    "maricar_kuluthu": {
+      "name": "Kuluthu",
+      "gender": "f",
+      "gen": 6
+    },
+    "maricar_liyana": {
+      "name": "Liyana",
+      "gender": "f",
+      "gen": 6
+    },
+    "maricar_muhadir": {
+      "name": "Muhadir",
+      "gender": "m",
+      "gen": 6
+    },
+    "maricar_muhsinah": {
+      "name": "Muhsinah",
+      "gender": "f",
+      "gen": 6
+    },
+    "maricar_nawsath": {
+      "name": "Nawsath",
+      "gender": "f",
+      "gen": 6
+    },
+    "maricar_partner_of_jafir": {
+      "name": "Partner of Jafir",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_partner_of_sitima": {
+      "name": "Partner of Sitima",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_salmaan": {
+      "name": "Salmaan",
+      "gender": "m",
+      "gen": 6
+    },
+    "maricar_sister_of_muhadir": {
+      "name": "Sister of Muhadir",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_sister_of_salmaan": {
+      "name": "Sister of Salmaan",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_sister_of_sister_of_salmaan": {
+      "name": "Sister of Sister of Salmaan",
+      "gender": "f",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_sitima": {
+      "name": "Sitima",
+      "gender": "f",
+      "gen": 6
+    },
+    "maricar_son_of_naasik": {
+      "name": "Son of Naasik",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_naasik_2": {
+      "name": "Son of Naasik (2)",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_navaz": {
+      "name": "Son of Navaz",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_raja": {
+      "name": "Son of Raja",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_raja_2": {
+      "name": "Son of Raja (2)",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_siraj": {
+      "name": "Son of Siraj",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_son_of_siraj_2": {
+      "name": "Son of Siraj (2)",
+      "gender": "m",
+      "gen": 6,
+      "unknown": true
+    },
+    "maricar_ashraf_2": {
+      "name": "Ashraf (2)",
+      "gender": "m",
+      "gen": 7
+    },
+    "maricar_brother_of_ashraf": {
+      "name": "Brother of Ashraf",
+      "gender": "m",
+      "gen": 7,
+      "unknown": true
+    },
+    "maricar_brother_of_juwairiah": {
+      "name": "Brother of Juwairiah",
+      "gender": "m",
+      "gen": 7,
+      "unknown": true
+    },
+    "maricar_juwairiah": {
+      "name": "Juwairiah",
+      "gender": "f",
+      "gen": 7
+    },
+    "maricar_mujeeb": {
+      "name": "Mujeeb",
+      "gender": "m",
+      "gen": 7
+    },
+    "maricar_sister_of_brother_of_ashraf": {
+      "name": "Sister of Brother of Ashraf",
+      "gender": "f",
+      "gen": 7,
+      "unknown": true
+    },
+    "maricar_son_of_jafir": {
+      "name": "Son of Jafir",
+      "gender": "m",
+      "gen": 7,
+      "unknown": true
+    }
+  },
+  "Munions": [
+    {
+      "p": [
+        "maricar_alimah",
+        "maricar_vacha"
+      ],
+      "c": [
+        "maricar_amina"
+      ]
+    },
+    {
+      "p": [
+        "maricar_amina",
+        "maricar_sultan_maricar"
+      ],
+      "c": [
+        "maricar_hamid_maami"
+      ],
+      "note": "Amina and Sultan Maricar are the founding couple of the Maricar line."
+    },
+    {
+      "p": [
+        "maricar_hamid_maami",
+        "maricar_sheikh_dawood"
+      ],
+      "c": [
+        "maricar_jareena_muthu",
+        "maricar_banu",
+        "maricar_thangam"
+      ]
+    },
+    {
+      "p": [
+        "maricar_jareena_muthu",
+        "maricar_father_of_son_of_jareena"
+      ],
+      "c": [
+        "maricar_son_of_jareena",
+        "maricar_brother_of_son_of_jareena"
+      ]
+    },
+    {
+      "p": [
+        "maricar_banu",
+        "maricar_father_of_aslam"
+      ],
+      "c": [
+        "maricar_aslam",
+        "maricar_fahima"
+      ]
+    },
+    {
+      "p": [
+        "maricar_thangam",
+        "maricar_father_of_daughter_of_thangam"
+      ],
+      "c": [
+        "maricar_daughter_of_thangam"
+      ]
+    },
+    {
+      "p": [
+        "maricar_sultan_maricar",
+        "maricar_partner_of_sultan_maricar"
+      ],
+      "c": [
+        "maricar_sarebu",
+        "maricar_latha_amma",
+        "maricar_fauziah",
+        "maricar_haijah",
+        "maricar_abdulrahim",
+        "maricar_aisha_natchia_ummanama"
+      ]
+    },
+    {
+      "p": [
+        "maricar_sarebu",
+        "maricar_mother_of_daughter_of_sarebu"
+      ],
+      "c": [
+        "maricar_daughter_of_sarebu",
+        "maricar_sister_of_daughter_of_sarebu"
+      ]
+    },
+    {
+      "p": [
+        "maricar_latha_amma",
+        "maricar_maideen"
+      ],
+      "c": [
+        "maricar_ponnachi",
+        "maricar_fareedha"
+      ]
+    },
+    {
+      "p": [
+        "maricar_ponnachi",
+        "maricar_ibrahim"
+      ],
+      "c": [
+        "maricar_mother_of_son_of_navaz"
+      ]
+    },
+    {
+      "p": [
+        "maricar_mother_of_son_of_navaz",
+        "maricar_navaz"
+      ],
+      "c": [
+        "maricar_son_of_navaz"
+      ]
+    },
+    {
+      "p": [
+        "maricar_fareedha",
+        "maricar_udhumalai_vaapa"
+      ],
+      "c": [
+        "maricar_jaani",
+        "maricar_partner_of_naasik",
+        "maricar_partner_of_nizam"
+      ]
+    },
+    {
+      "p": [
+        "maricar_jaani",
+        "maricar_father_of_muhsinah"
+      ],
+      "c": [
+        "maricar_muhsinah",
+        "maricar_muhadir",
+        "maricar_sister_of_muhadir"
+      ]
+    },
+    {
+      "p": [
+        "maricar_partner_of_naasik",
+        "maricar_naasik"
+      ],
+      "c": [
+        "maricar_son_of_naasik",
+        "maricar_son_of_naasik_2"
+      ]
+    },
+    {
+      "p": [
+        "maricar_partner_of_nizam",
+        "maricar_nizam"
+      ],
+      "c": [
+        "maricar_daughter_of_nizam"
+      ]
+    },
+    {
+      "p": [
+        "maricar_hamid",
+        "maricar_fauziah"
+      ],
+      "c": [
+        "maricar_hilal",
+        "maricar_sister_of_hilal"
+      ]
+    },
+    {
+      "p": [
+        "maricar_haijah",
+        "maricar_partner_of_haijah"
+      ],
+      "c": [
+        "maricar_son_of_haijah",
+        "maricar_son_of_haijah_2"
+      ]
+    },
+    {
+      "p": [
+        "maricar_partner_of_abdulrahim",
+        "maricar_abdulrahim"
+      ],
+      "c": [
+        "maricar_child_of_abdulrahim",
+        "maricar_child_of_abdulrahim_2"
+      ]
+    },
+    {
+      "p": [
+        "maricar_aisha_natchia_ummanama",
+        "maricar_partner_of_aisha_natchia"
+      ],
+      "c": [
+        "maricar_muthu_vappa",
+        "maricar_thanga",
+        "maricar_sellakani_mami",
+        "maricar_saramma",
+        "maricar_aachikani_maami",
+        "maricar_mother_of_shamima"
+      ]
+    },
+    {
+      "p": [
+        "maricar_muthu_vappa",
+        "maricar_partner_of_muthu"
+      ],
+      "c": [
+        "maricar_son_of_muthu",
+        "maricar_daughter_of_muthu",
+        "maricar_daughter_of_partner_of_muthu",
+        "maricar_daughter_of_muthu_2",
+        "maricar_daughter_of_muthu_3",
+        "maricar_daughter_of_partner_of_muthu_2",
+        "maricar_daughter_of_muthu_4"
+      ]
+    },
+    {
+      "p": [
+        "maricar_thanga",
+        "maricar_arief"
+      ],
+      "c": [
+        "maricar_rafeeq",
+        "maricar_jinnah",
+        "maricar_omar",
+        "maricar_nawaz",
+        "maricar_kamilah",
+        "maricar_rosy",
+        "maricar_nizarah"
+      ]
+    },
+    {
+      "p": [
+        "maricar_sellakani_mami",
+        "maricar_father_of_farvin"
+      ],
+      "c": [
+        "maricar_farvin",
+        "maricar_sellapapa",
+        "maricar_setha_munnai"
+      ]
+    },
+    {
+      "p": [
+        "maricar_farvin",
+        "maricar_said_mubarak"
+      ],
+      "c": [
+        "maricar_salmaan",
+        "maricar_sister_of_salmaan",
+        "maricar_sister_of_sister_of_salmaan",
+        "maricar_brother_of_sister_of_salmaan"
+      ]
+    },
+    {
+      "p": [
+        "maricar_sellapapa",
+        "maricar_partner_of_sellapapa"
+      ],
+      "c": [
+        "maricar_daughter_of_sellapapa",
+        "maricar_brother_of_daughter_of_sellapapa"
+      ]
+    },
+    {
+      "p": [
+        "maricar_setha_munnai",
+        "maricar_partner_of_setha"
+      ],
+      "c": [
+        "maricar_kuluthu",
+        "maricar_brother_of_kuluthu"
+      ]
+    },
+    {
+      "p": [
+        "maricar_saramma",
+        "maricar_setha_vappa"
+      ],
+      "c": [
+        "maricar_banu_2",
+        "maricar_siraj_2",
+        "maricar_raja"
+      ]
+    },
+    {
+      "p": [
+        "maricar_banu_2",
+        "maricar_father_of_jafir"
+      ],
+      "c": [
+        "maricar_jafir",
+        "maricar_daughter_of_banu"
+      ]
+    },
+    {
+      "p": [
+        "maricar_jafir",
+        "maricar_partner_of_jafir"
+      ],
+      "c": [
+        "maricar_son_of_jafir"
+      ]
+    },
+    {
+      "p": [
+        "maricar_siraj_2",
+        "maricar_partner_of_siraj"
+      ],
+      "c": [
+        "maricar_son_of_siraj",
+        "maricar_son_of_siraj_2",
+        "maricar_daughter_of_siraj"
+      ]
+    },
+    {
+      "p": [
+        "maricar_raja",
+        "maricar_farhana"
+      ],
+      "c": [
+        "maricar_son_of_raja",
+        "maricar_son_of_raja_2"
+      ]
+    },
+    {
+      "p": [
+        "maricar_aachikani_maami",
+        "maricar_father_of_anis"
+      ],
+      "c": [
+        "maricar_anis"
+      ]
+    },
+    {
+      "p": [
+        "maricar_anis",
+        "maricar_ramli"
+      ],
+      "c": [
+        "maricar_liyana"
+      ]
+    },
+    {
+      "p": [
+        "maricar_nawsath",
+        "maricar_jinnah_2"
+      ],
+      "c": [
+        "maricar_juwairiah",
+        "maricar_brother_of_juwairiah"
+      ]
+    },
+    {
+      "p": [
+        "maricar_mother_of_shamima",
+        "maricar_settu_vaapa"
+      ],
+      "c": [
+        "maricar_shamima",
+        "maricar_shakila",
+        "maricar_zubaidah_2",
+        "maricar_asmamama"
+      ]
+    },
+    {
+      "p": [
+        "maricar_asmamama",
+        "maricar_late_partner_of_asmamama"
+      ],
+      "c": [
+        "maricar_sitima"
+      ]
+    },
+    {
+      "p": [
+        "maricar_sitima",
+        "maricar_partner_of_sitima"
+      ],
+      "c": [
+        "maricar_mujeeb",
+        "maricar_ashraf_2",
+        "maricar_brother_of_ashraf",
+        "maricar_sister_of_brother_of_ashraf"
+      ]
+    }
+  ]
+}

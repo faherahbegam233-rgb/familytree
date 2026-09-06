@@ -1,0 +1,126 @@
+<div class="wrap">
+
+  <div class="masthead-banner" id="mastheadBanner">
+  <div class="masthead">
+    <div class="crest" aria-hidden="true">
+      <svg width="40" height="54" viewBox="0 0 46 62" fill="none">
+        <rect x="14" y="4" width="18" height="8" rx="1" stroke="currentColor" stroke-width="1.6"/>
+        <rect x="10" y="12" width="26" height="34" rx="1.5" stroke="currentColor" stroke-width="1.6"/>
+        <circle cx="23" cy="24" r="8" stroke="currentColor" stroke-width="1.6"/>
+        <line x1="23" y1="24" x2="23" y2="19" stroke="currentColor" stroke-width="1.6"/>
+        <line x1="23" y1="24" x2="27" y2="26" stroke="currentColor" stroke-width="1.6"/>
+        <rect x="8" y="46" width="30" height="5" rx="1" stroke="currentColor" stroke-width="1.6"/>
+        <rect x="4" y="51" width="38" height="7" rx="1" stroke="currentColor" stroke-width="1.6"/>
+      </svg>
+    </div>
+    <div class="masthead-text">
+      <span class="kicker">The Family Heritage Book &middot; live dashboard preview</span>
+      <h1 class="title">Abu Bakar, Kuddus &amp; Maricar</h1>
+      <p class="subtitle">Every branch, browsable — pick a family to explore.</p>
+    </div>
+  </div>
+  </div>
+
+  <div class="tabbar" id="tabbar">
+    <button data-mode="about" class="active">About the Book</button>
+    <button data-mode="abubakar">Abu Bakar</button>
+    <button data-mode="kuddus">Kuddus</button>
+    <button data-mode="maricar">Maricar</button>
+    <button data-mode="all">All People</button>
+    <a href="/admin" class="admin-link" style="margin-left:auto;align-self:center;font-size:12px;font-weight:600;color:var(--muted);text-decoration:none;">Admin login &rarr;</a>
+  </div>
+
+  <!-- ABOUT -->
+  <section class="panel visible" id="panel-about">
+    <div class="authorcard">
+      <img src="" id="authorPhoto" alt="Faherah Begam"/>
+      <div>
+        <p>"A family both crazy and complicated — my cousins feel it too. This is my attempt to untangle it, one more reason being Fauz: I want our future generations to hold onto our stories."</p>
+        <div class="attrib">Faherah Begam &middot; 5th generation &middot; compiler, 2025</div>
+      </div>
+    </div>
+
+    <div class="howto"><b>How to use this:</b> pick a family above for its tree + full list, side by side — click any name for their story. Dashed "help fill this in" boxes are gaps in the book.</div>
+
+    <div class="sectionhead">
+      <h2>Three names, one family</h2>
+      <p>The book follows three patriarchs whose descendants keep marrying back into each other — click a family to open its tree.</p>
+    </div>
+    <div class="famgrid" id="famCards"></div>
+
+    <div class="sectionhead card-section">
+      <h2>Fun facts from the book</h2>
+    </div>
+    <div class="fungrid">
+      <div class="funtile"><div class="ficon">1937 &middot; Singapore</div><p>Abu Bakar opened <b>Kasab Kadai</b> in Little India — the first halal butchery to import Australian meat, and the first to use a meat mincer.</p></div>
+      <div class="funtile"><div class="ficon">1958 &middot; Neravy</div><p>His clock tower's clock came from Germany. Descendants restored it in 2023 — it also appears for a few seconds in the Tamil film <i>Lal Salaam</i>.</p></div>
+      <div class="funtile"><div class="ficon">1940s &middot; Joo Chiat Rd</div><p>Sultan Maricar, half-Malay, ran a printing shop in Singapore before returning to India for a floral business in Karikal.</p></div>
+      <div class="funtile"><div class="ficon">1935 &middot; Japan</div><p>Amina's mother Alimah Ummal's own brother served as a Governor in Japan.</p></div>
+      <div class="funtile"><div class="ficon">1950s &middot; Singapore</div><p>Kuddus stayed a farmer in Sangamangalam his whole life — but sent all three sons to Singapore, where their descendants still run the family shop.</p></div>
+      <div class="funtile"><div class="ficon">2025</div><p>Faherah's own parents are first cousins — the tangle she set out to untangle by writing this book.</p></div>
+    </div>
+
+    <footer>
+      Tree last updated 5 Sep 2026 by Faherah Begam, from the family's final tree diagram. Contributions — landmarks, anecdotes, family traits — are welcome; the live version of this dashboard will let anyone submit them for approval.
+    </footer>
+  </section>
+
+  <!-- FAMILY (shared template, re-rendered per active family) -->
+  <section class="panel" id="panel-family">
+    <div class="sectionhead">
+      <h2 id="famTitle"></h2>
+      <p class="famblurb" id="famBlurb"></p>
+    </div>
+    <div class="statrow" id="famStats"></div>
+    <div class="famhistory" id="famHistory"></div>
+
+    <div class="tree-toolbar">
+      <span class="legend">Drag to pan &middot; scroll to zoom &middot; click anyone for their story &nbsp;
+        <span><span class="dot" style="border-color:var(--teal)"></span>Male</span>
+        <span><span class="dot" style="border-color:var(--ink)"></span>Female</span>
+        <span><span class="dot" style="border-color:var(--muted);border-style:dashed"></span>Unknown</span>
+        <span><span style="color:var(--gold)">★</span> You</span>
+      </span>
+      <div class="zoomctl">
+        <button data-zoom="out" title="Zoom out">−</button>
+        <button data-zoom="fit" title="Fit to screen">⤢</button>
+        <button data-zoom="in" title="Zoom in">+</button>
+      </div>
+    </div>
+    <div id="famTreeStage"></div>
+
+    <div class="sectionhead card-section">
+      <h2>Everyone in this branch</h2>
+      <p>Search or filter by generation — this is the same tree above, as a list.</p>
+    </div>
+    <div class="dirbar">
+      <input class="search-input" id="famSearch" type="text" placeholder="Search a name…"/>
+      <div class="chiprow" id="famGenChips"></div>
+    </div>
+    <div class="cardgrid" id="famGrid"></div>
+  </section>
+
+  <!-- ALL PEOPLE -->
+  <section class="panel" id="panel-all">
+    <div class="sectionhead">
+      <h2>Everyone in the book</h2>
+      <p>Search across all three families at once.</p>
+    </div>
+    <div class="dirbar">
+      <input class="search-input" id="allSearch" type="text" placeholder="Search a name…"/>
+      <div class="chiprow" id="allFamilyChips"></div>
+      <div class="chiprow" id="allGenChips"></div>
+    </div>
+    <div class="cardgrid" id="allGrid"></div>
+  </section>
+
+</div>
+
+<div class="scrim" id="scrim">
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modalClose">✕</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
