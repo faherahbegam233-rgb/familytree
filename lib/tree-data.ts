@@ -14,6 +14,9 @@ type PersonRow = {
   unknown: boolean;
   is_user: boolean;
   photo_url: string | null;
+  dob: string | null;
+  status: string | null;
+  occupation: string | null;
 };
 type UnionRow = { id: string; family: Family; partner1_id: string; partner2_id: string | null; note: string | null };
 type ChildRow = { union_id: string; child_id: string; position: number };
@@ -24,6 +27,9 @@ function personToClientShape(p: PersonRow) {
   if (p.traits) extra.traits = p.traits;
   if (p.unknown) extra.unknown = true;
   if (p.is_user) extra.isUser = true;
+  if (p.dob) extra.dob = p.dob;
+  if (p.status && p.status !== "unknown") extra.status = p.status;
+  if (p.occupation) extra.occupation = p.occupation;
   return { name: p.name, gender: p.gender, gen: p.gen, ...extra };
 }
 
@@ -85,6 +91,18 @@ export async function getTreeData() {
       photoOverrides,
     };
   } catch {
-    return { ...(seed as any), photoOverrides: {} };
+    // Supabase isn't reachable (not seeded yet, or an outage) — fall back to
+    // the bundled seed JSON, which is the same data pixel-verified against
+    // the source book. Pull any photo_url values that were baked into the
+    // seed straight from the book (e.g. verified portraits) into
+    // photoOverrides too, so they still show up even off the fallback path.
+    const s = seed as any;
+    const photoOverrides: Record<string, string> = {};
+    (["A", "K", "M"] as const).forEach((key) => {
+      Object.entries(s[key] || {}).forEach(([id, p]: [string, any]) => {
+        if (p && p.photo_url) photoOverrides[id] = p.photo_url;
+      });
+    });
+    return { ...s, photoOverrides };
   }
 }

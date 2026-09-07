@@ -20,7 +20,7 @@
       "name": "Jakinah",
       "gender": "f",
       "gen": 1,
-      "traits": "Passed away."
+      "traits": "Married Halim; their sons were Nasar and Abu Bakar. Passed away."
     },
     "abubakar_kamaludeen": {
       "name": "Kamaludeen",
@@ -214,7 +214,8 @@
     "abubakar_abdul_razak": {
       "name": "Abdul Razak",
       "gender": "m",
-      "gen": 4
+      "gen": 4,
+      "traits": "Muhammad Kuddus's grandson through Abdul Kader — the family notes an uncanny resemblance between the two."
     },
     "abubakar_aminah_banu": {
       "name": "Aminah Banu",
@@ -260,7 +261,8 @@
     "abubakar_khalibullah": {
       "name": "Khalibullah",
       "gender": "m",
-      "gen": 4
+      "gen": 4,
+      "traits": "Muhammad Kuddus's grandson through Abdul Kader — the family notes an uncanny resemblance between the two."
     },
     "abubakar_khalid": {
       "name": "Khalid",
@@ -354,7 +356,8 @@
       "gender": "f",
       "gen": 5,
       "isUser": true,
-      "traits": "Compiled this family archive — the reason this dashboard exists."
+      "traits": "Compiled this family archive — the reason this dashboard exists.",
+      "photo_url": "/seed-photos/faherah-begam.jpg"
     },
     "abubakar_faizal": {
       "name": "Faizal",
@@ -850,18 +853,21 @@
     "kuddus_fatimah": {
       "name": "Fatimah",
       "gender": "f",
-      "gen": 1
+      "gen": 1,
+      "traits": "Muhammad Kuddus's only wife; together they raised three sons and a daughter while farming in Sangamangalam."
     },
     "kuddus_muhammad_kuddus": {
       "name": "Muhammad Kuddus",
       "gender": "m",
       "gen": 1,
-      "traits": "A farmer in Sangamangalam, India, with one wife and four children."
+      "traits": "A farmer in Sangamangalam, India, with one wife and four children.",
+      "photo_url": "/seed-photos/muhammad-kuddus.jpg"
     },
     "kuddus_abdul_karim": {
       "name": "Abdul Karim",
       "gender": "m",
-      "gen": 2
+      "gen": 2,
+      "traits": "Married Aisha; ran his own household alongside brothers Bavamaideen and Abdul Kader after the family's move to Singapore."
     },
     "kuddus_balqis": {
       "name": "Balqis",
@@ -1155,7 +1161,8 @@
     "maricar_alimah": {
       "name": "Alimah",
       "gender": "f",
-      "gen": 1
+      "gen": 1,
+      "traits": "Amina's mother. Her brother served as a Governor in Japan in 1935."
     },
     "maricar_vacha": {
       "name": "Vacha",
@@ -1256,7 +1263,8 @@
     "maricar_sheikh_dawood": {
       "name": "Sheikh Dawood",
       "gender": "m",
-      "gen": 3
+      "gen": 3,
+      "traits": "Married Hamid Maami, Sultan Maricar's granddaughter through Amina."
     },
     "maricar_aachikani_maami": {
       "name": "Aachikani Maami",

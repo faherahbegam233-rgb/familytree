@@ -20,6 +20,9 @@ create table if not exists people (
   unknown boolean not null default false,
   is_user boolean not null default false,
   photo_url text,
+  dob text,
+  status text not null default 'unknown' check (status in ('living', 'deceased', 'unknown')),
+  occupation text,
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now()
 );
@@ -48,7 +51,7 @@ create table if not exists suggestions (
   id uuid primary key default gen_random_uuid(),
   family text check (family in ('abubakar', 'kuddus', 'maricar')),
   kind text not null check (
-    kind in ('edit_person', 'add_person', 'add_union', 'add_child', 'upload_photo', 'other')
+    kind in ('edit_person', 'add_person', 'add_child', 'add_partner', 'add_union', 'upload_photo', 'other')
   ),
   target_person_id text references people(id) on delete set null,
   payload jsonb not null default '{}'::jsonb,
@@ -56,6 +59,10 @@ create table if not exists suggestions (
   submitted_note text,
   status text not null default 'pending' check (status in ('pending', 'approved', 'rejected')),
   admin_note text,
+  -- Exactly what was written to people/unions/union_children when this was
+  -- approved (new ids created, fields changed) — the permanent audit trail,
+  -- separate from `payload` (what was originally submitted).
+  applied_snapshot jsonb,
   created_at timestamptz not null default now(),
   resolved_at timestamptz
 );
