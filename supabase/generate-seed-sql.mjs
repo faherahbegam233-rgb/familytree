@@ -27,16 +27,21 @@ let sql = `-- ==================================================================
 
 function emitFamily(familyKey, people, unions) {
   sql += `-- ---------- ${familyKey} : people ----------\n`;
-  sql += "insert into people (id, family, name, gender, gen, title, traits, unknown, is_user) values\n";
+  sql += "insert into people (id, family, name, gender, gen, title, traits, unknown, is_user, photo_url) values\n";
   const rows = Object.entries(people).map(([id, p]) => {
     return `  (${sqlStr(id)}, ${sqlStr(familyKey)}, ${sqlStr(p.name)}, ${sqlStr(p.gender)}, ${p.gen}, ${sqlStr(
       p.title
-    )}, ${sqlStr(p.traits)}, ${sqlBool(!!p.unknown)}, ${sqlBool(!!p.isUser)})`;
+    )}, ${sqlStr(p.traits)}, ${sqlBool(!!p.unknown)}, ${sqlBool(!!p.isUser)}, ${sqlStr(p.photo_url)})`;
   });
   sql += rows.join(",\n") + "\n";
+  // traits/photo_url use coalesce so re-running this file never wipes out a
+  // photo Faherah uploaded through the admin dashboard, or a bio she's since
+  // hand-edited there, back to null — it only fills gaps and applies new
+  // book text (which is never null in this file).
   sql += `on conflict (id) do update set
   family = excluded.family, name = excluded.name, gender = excluded.gender, gen = excluded.gen,
-  title = excluded.title, traits = excluded.traits, unknown = excluded.unknown, is_user = excluded.is_user,
+  title = excluded.title, traits = coalesce(excluded.traits, people.traits), unknown = excluded.unknown, is_user = excluded.is_user,
+  photo_url = coalesce(excluded.photo_url, people.photo_url),
   updated_at = now();\n\n`;
 
   sql += `-- ---------- ${familyKey} : unions ----------\n`;

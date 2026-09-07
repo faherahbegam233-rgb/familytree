@@ -25,7 +25,11 @@ export default async function AdminPage() {
   });
 
   const personIds = Array.from(
-    new Set((suggestions || []).map((s) => s.target_person_id).filter(Boolean))
+    new Set(
+      (suggestions || [])
+        .flatMap((s) => [s.target_person_id, s.payload?.parent1_id, s.payload?.parent2_id, s.payload?.existing_person_id])
+        .filter(Boolean)
+    )
   ) as string[];
   const { data: people } =
     personIds.length > 0

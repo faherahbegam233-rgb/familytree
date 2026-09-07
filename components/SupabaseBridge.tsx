@@ -10,8 +10,17 @@ import { createClient } from "@/lib/supabase-browser";
  */
 export default function SupabaseBridge() {
   useEffect(() => {
+    const supabase = createClient();
     // @ts-expect-error – deliberate global bridge for the non-React tree script
-    window.__supabase = createClient();
+    window.__supabase = supabase;
+    // Lets the tree script show admin-only controls (e.g. "Replace photo").
+    // Since new sign-ups are disabled in Supabase, any logged-in session is
+    // Faherah's — the actual write routes still re-check requireAdmin()
+    // server-side, so this is a UI convenience, not the security boundary.
+    supabase.auth.getSession().then(({ data }) => {
+      // @ts-expect-error – deliberate global bridge
+      window.__isAdmin = !!data.session;
+    });
   }, []);
   return null;
 }
